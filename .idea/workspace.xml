@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a99e82f-a2b4-4272-b88c-a027bdf51f11" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/main.mustache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/GreetingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/greeting.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/greeting.mustache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/GreetingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/GreetingController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/greeting.html" beforeDir="false" />
-    </list>
+    <list default="true" id="8a99e82f-a2b4-4272-b88c-a027bdf51f11" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -135,58 +128,6 @@
               <item name="sweater" type="b2602c69:ProjectViewProjectNode" />
               <item name="sweater" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="sweater" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sweater" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sweater" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sweater" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sweater" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sweater" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sweater" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sweater" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sweater" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sweater" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sweater" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sweater" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sweater" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sweater" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sweater" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sweater" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sweater" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -287,12 +228,12 @@
       <option name="presentableId" value="Default" />
       <updated>1532703464307</updated>
       <workItem from="1532703485533" duration="7215000" />
-      <workItem from="1532797517371" duration="6208000" />
+      <workItem from="1532797517371" duration="6459000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13423000" />
+    <option name="totallyTimeSpent" value="13674000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -326,8 +267,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32960895" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32960895" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32960895" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
