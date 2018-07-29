@@ -14,6 +14,10 @@ public class Message {
     private String text;
     private String tag;
 
+    public Message(){
+
+    }
+
     public void setText(String text) {
         this.text = text;
     }
@@ -24,6 +28,11 @@ public class Message {
 
     public Integer getId() {
         return id;
+    }
+
+    public Message(String text, String tag) {
+        this.text = text;
+        this.tag = tag;
     }
 
     public void setId(Integer id) {
